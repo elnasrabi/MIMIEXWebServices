@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d709f4a6bc064cbd913df40b5ad0c271" Name="Diagram1" ZoomLevel="57">
+        <EntityTypeShape EntityType="MIMEXModel.HelpAnswers" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MIMEXModel.IMEXUser" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vClaim" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vClaimForBank" Width="1.5" PointX="6.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vClaimForTrader" Width="1.5" PointX="0.75" PointY="6.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vClaimSettlement" Width="1.5" PointX="8.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vClientInquery" Width="1.5" PointX="2.75" PointY="8.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vContract" Width="1.5" PointX="4.75" PointY="8.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vContractCommodity" Width="1.5" PointX="8.75" PointY="6.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vContractPaymentMethod" Width="1.5" PointX="10.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vContractRequest" Width="1.5" PointX="10.75" PointY="4.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vContractRequestCommodity" Width="1.5" PointX="6.75" PointY="11.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vContractRequestPaymentMethod" Width="1.5" PointX="12.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vExCommodity" Width="1.5" PointX="12.75" PointY="4.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vExForm" Width="1.5" PointX="12.75" PointY="7.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vExFormCommodity" Width="1.5" PointX="8.75" PointY="12.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vIMEXUser" Width="1.5" PointX="14.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vImForm" Width="1.5" PointX="0.75" PointY="14.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vImFormCommodity" Width="1.5" PointX="14.75" PointY="6.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vIssue" Width="1.5" PointX="14.75" PointY="12.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vLicense" Width="1.5" PointX="16.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vLicenseCommodity" Width="1.5" PointX="2.75" PointY="16.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vLicenseRequest" Width="1.5" PointX="4.75" PointY="16.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vLicenseRequestCommodity" Width="1.5" PointX="6.75" PointY="16.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vOperation" Width="1.5" PointX="18.75" PointY="7.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vOperationPaymentMethod" Width="1.5" PointX="10.75" PointY="19.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vOperationRequest" Width="1.5" PointX="12.75" PointY="19.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vOperationRequestCommodity" Width="1.5" PointX="20.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vOperationRequestPaymentMethod" Width="1.5" PointX="20.75" PointY="5.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vPayment" Width="1.5" PointX="20.75" PointY="16.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vRelatedObject" Width="1.5" PointX="22.75" PointY="0.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vSupportedDouments" Width="1.5" PointX="22.75" PointY="3.75" />
+        <EntityTypeShape EntityType="MIMEXModel.database_firewall_rules" Width="1.5" PointX="22.75" PointY="8.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vOperationCommodity" Width="1.5" PointX="7.375" PointY="23.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vOperationTransfer" Width="1.5" PointX="9.375" PointY="23.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vMaturity" Width="1.5" PointX="15.375" PointY="18.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vMaturityForTrader" Width="1.5" PointX="17.375" PointY="18.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vMaturitySettlement" Width="1.5" PointX="23.375" PointY="11.75" />
+        <EntityTypeShape EntityType="MIMEXModel.vMaturityStatus" Width="1.5" PointX="23.375" PointY="19.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

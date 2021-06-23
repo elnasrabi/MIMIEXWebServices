@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="MIMEXService" />
+  <setParameter name="DefaultConnection-Web.config Connection String" value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-MobileAppServices-20200724020137.mdf;Initial Catalog=aspnet-MobileAppServices-20200724020137;Integrated Security=True" />
+  <setParameter name="MobileAppServicesContext-Web.config Connection String" value="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=MobileAppServicesContext-20200724142606; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|MobileAppServicesContext-20200724142606.mdf" />
+  <setParameter name="MIMEXEntities-Web.config Connection String" value="metadata=res://*/Models.Model1.csdl|res://*/Models.Model1.ssdl|res://*/Models.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=AFS-SQL01-DEV\AFS_SQL01_DEV;initial catalog=MIMEX;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" />
+</parameters>
